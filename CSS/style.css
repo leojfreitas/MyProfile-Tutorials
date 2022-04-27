@@ -130,9 +130,9 @@ overflow: hidden;
     cursor: pointer;
 }
  
-.card .content .details  .action button:nth-child(2){
+/* .card .content .details  .action button:nth-child(2){
 border:1px solid #8e66fd;
 color: #ff5acd;
 background: #fff    ;
 
-}
+} */
